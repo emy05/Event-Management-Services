@@ -6,7 +6,7 @@ This web application contains
 •	Registration and Services Page 
 •	Gallery Page
 •	Price and Review Page
-Styled all the pages using CSS
+Styled all the pages using CSS,
 Used JavaScript to make the page more interactive
 TECNOLOGIES USED :
 HTML
